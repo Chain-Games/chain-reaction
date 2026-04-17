@@ -85,9 +85,10 @@ The goal is to create a game players would enjoy **even without Web3**.
 
 Players are actively organizing matches and sharing feedback as the game evolves.
 
-- 💬 Discord: *[Insert Link]*
-- 🐦 X (Twitter): *[Insert Link]*
-- 🎮 Website: *[Insert Link]*
+- 💬 Discord: *[https://discord.com/invite/dgKxN7w]*
+- ↗️ Telegram: *[https://t.me/chaingames]*
+- 🐦 X (Twitter): *[https://x.com/realchaingames]*
+- 🎮 Website: *[https://chainreaction.win]*
 
 ---
 
